@@ -1,0 +1,23 @@
+
+      h2,
+      h3 {
+        /* h2와 h3 전체 */
+        color: saddlebrown;
+      }
+      .menu li {
+        color: gray;
+      }
+      .menu > li {
+        font-weight: bold;
+        color: red;
+      }
+      input {
+        padding: 8px;
+        font-size: 16px;
+      }
+      input[type="text"]{
+        border: 2px solid tomato;
+        border-radius: 20px;
+
+      }
+    
